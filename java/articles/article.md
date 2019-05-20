@@ -15,4 +15,10 @@
 #### Java工程师成神之路  
 To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com  
 
-[https://github.com/hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
+[https://github.com/hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)  
+
+
+#####  什么是单点登录(SSO)  
+[https://juejin.im/post/5cdd42f9518825693f1ebf8d](https://juejin.im/post/5cdd42f9518825693f1ebf8d)  
+
+
