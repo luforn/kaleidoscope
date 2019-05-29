@@ -22,3 +22,11 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 [https://juejin.im/post/5cdd42f9518825693f1ebf8d](https://juejin.im/post/5cdd42f9518825693f1ebf8d)  
 
 
+#####  Mybatis中$和#千万不要乱用  
+[https://mp.weixin.qq.com/s/SpGioy8VS0uG75mwqbzwcw](https://mp.weixin.qq.com/s/SpGioy8VS0uG75mwqbzwcw)  
+
+
+#####  不了解这12个语法糖，别说你会Java  
+[https://mp.weixin.qq.com/s/6dqFNzfSe88vYMW_r3s3Bw](https://mp.weixin.qq.com/s/6dqFNzfSe88vYMW_r3s3Bw)  
+
+
