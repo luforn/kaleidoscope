@@ -1,6 +1,9 @@
 ## 博文清单  
 
 
+#####  源码分析SpringBoot启动  
+[https://juejin.im/post/5cfb1b5de51d45775a7002e2](https://juejin.im/post/5cfb1b5de51d45775a7002e2)  
+
 #####  深入浅出Spring Boot 起步依赖和自动配置  
 [https://juejin.im/post/5cd62e566fb9a0322b5c1658](https://juejin.im/post/5cd62e566fb9a0322b5c1658)  
 
@@ -27,6 +30,15 @@
 
 #####  @Schedule cron表达式  
 [https://www.jianshu.com/p/c6f0f37fde31](https://www.jianshu.com/p/c6f0f37fde31)  
+
+#####  spring boot集成kafka之spring-kafka深入探秘  
+[https://my.oschina.net/keking/blog/3056698](https://my.oschina.net/keking/blog/3056698)  
+
+
+#####  SpringBoot整合MyBatis-Plus3.1详细教程  
+[https://juejin.im/post/5cfa6e465188254ee433bc69](https://juejin.im/post/5cfa6e465188254ee433bc69)  
+
+
 
 
  
