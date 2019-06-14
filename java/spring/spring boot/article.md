@@ -7,6 +7,9 @@
 #####  深入浅出Spring Boot 起步依赖和自动配置  
 [https://juejin.im/post/5cd62e566fb9a0322b5c1658](https://juejin.im/post/5cd62e566fb9a0322b5c1658)  
 
+#####  Spring Boot 配置文件中的花样，看这一篇足矣 
+[https://my.oschina.net/didispace/blog/3060464](https://my.oschina.net/didispace/blog/3060464)
+
 #####   泥瓦匠 Spring Boot 2.x 系列教程  
 [https://www.bysocket.com/springboot](https://www.bysocket.com/springboot)  
 
@@ -38,6 +41,9 @@
 #####  SpringBoot整合MyBatis-Plus3.1详细教程  
 [https://juejin.im/post/5cfa6e465188254ee433bc69](https://juejin.im/post/5cfa6e465188254ee433bc69)  
 
+
+#####  Spring Boot 整合 Shiro ，两种方式全总结  
+[https://juejin.im/post/5cff0cfc5188250d28510681](https://juejin.im/post/5cff0cfc5188250d28510681)  
 
 
 

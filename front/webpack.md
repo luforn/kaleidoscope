@@ -15,4 +15,6 @@
 #####  从基础到实战 手摸手带你掌握新版Webpack4.0详解 一起读文档  
 [https://juejin.im/post/5cb36a3ef265da03a1581d6d](https://juejin.im/post/5cb36a3ef265da03a1581d6d)  
 
+#####  webpack4的30个步骤打造优化到极致的react开发环境，如约而至  
+[https://juejin.im/post/5cfe4b13f265da1bb13f26a8](https://juejin.im/post/5cfe4b13f265da1bb13f26a8)  
 
