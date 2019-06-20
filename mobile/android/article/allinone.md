@@ -1,5 +1,8 @@
 ## 综合知识点  
 
+#####  如何快速设计开发一款Android App
+[https://juejin.im/post/5d0260736fb9a07eb3097601](https://juejin.im/post/5d0260736fb9a07eb3097601)  
+
 #####  Manifest 详解  
 [https://juejin.im/post/5cf46fb9e51d45777621bb2d](https://juejin.im/post/5cf46fb9e51d45777621bb2d)
 
@@ -66,6 +69,23 @@
 [http://liuwangshu.cn/tags/AOSP%E5%9F%BA%E7%A1%80](http://liuwangshu.cn/tags/AOSP%E5%9F%BA%E7%A1%80)  
 
  
+#####  Glide使用简介及流程分析  
+[https://www.jianshu.com/p/7125feef0ddf](https://www.jianshu.com/p/7125feef0ddf)  
+
+#####  Android图片加载框架Glide源码解析（一） 
+[https://www.jianshu.com/p/d2e89a7380d7](https://www.jianshu.com/p/d2e89a7380d7)  
+
+#####  Android图片加载框架Glide源码解析（二）  
+[https://www.jianshu.com/p/57b0182b523c](https://www.jianshu.com/p/57b0182b523c)  
+
+#####  深入理解Glide  
+[https://www.jianshu.com/p/7c72e040087c](https://www.jianshu.com/p/7c72e040087c)  
+
+
+
+#####  Android优化总结  
+[https://juejin.im/post/5d072dbc51882540b7104709](https://juejin.im/post/5d072dbc51882540b7104709)  
+
 
 
 
