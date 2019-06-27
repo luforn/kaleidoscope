@@ -38,6 +38,15 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 #####  让人抓头的Java并发(二) 线程池ThreadPoolExecutor分析  
 [https://juejin.im/post/5cf7b87151882516be154a64](https://juejin.im/post/5cf7b87151882516be154a64)  
 
+#####  我们应该知道的java位运算  
+[https://blog.csdn.net/javazejian/article/details/51181320](https://blog.csdn.net/javazejian/article/details/51181320)  
+
+#####  Java位运算  
+[https://blog.csdn.net/u012814441/article/details/80904748](https://blog.csdn.net/u012814441/article/details/80904748)  
+
+#####  Java中的位运算机制详解  
+[https://blog.csdn.net/qq_24696917/article/details/52068927](https://blog.csdn.net/qq_24696917/article/details/52068927)  
+
  
 
 

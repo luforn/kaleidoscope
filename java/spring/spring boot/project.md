@@ -19,5 +19,6 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 [https://github.com/macrozheng/mall](https://github.com/macrozheng/mall)
 
 
-
+#####  破力  开源BI项目
+[https://github.com/shzlw/poli](https://github.com/shzlw/poli)
 
