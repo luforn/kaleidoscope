@@ -4,4 +4,7 @@
 [https://github.com/CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)  
 
 
+#####  alipay-sdk-python-all 
+[https://github.com/alipay/alipay-sdk-python-all](https://github.com/alipay/alipay-sdk-python-all)  
+
 

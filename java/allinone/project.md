@@ -1,4 +1,7 @@
-## 项目清单  
+## 项目清单
 
-##### WxJava  
+##### WxJava
 [https://github.com/Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava)
+
+##### JustAuth  史上最全的整合第三方登录的工具
+[https://github.com/zhangyd-c/JustAuth](https://github.com/zhangyd-c/JustAuth)
