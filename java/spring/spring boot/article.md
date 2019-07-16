@@ -1,5 +1,8 @@
 ## 博文清单  
 
+#####  彻底透析SpringBoot jar可执行原理  
+[https://juejin.im/post/5d2d6812e51d45777b1a3e5a](https://juejin.im/post/5d2d6812e51d45777b1a3e5a)  
+
 #####  循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码  
 [https://github.com/wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll)  
 

@@ -1,5 +1,8 @@
 ##  博文清单  
 
+#####  Mac搭建Flutter开发环境  
+[https://juejin.im/post/5d2c7c66f265da1bc64bf463](https://juejin.im/post/5d2c7c66f265da1bc64bf463)  
+
 #####  全网最全 Flutter 与 React Native 深入对比分析  
 [https://juejin.im/post/5d0bac156fb9a07ec56e7f15](https://juejin.im/post/5d0bac156fb9a07ec56e7f15)  
 

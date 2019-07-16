@@ -36,4 +36,3 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 [https://github.com/lenve/vhr](https://github.com/lenve/vhr)
 
 
-
