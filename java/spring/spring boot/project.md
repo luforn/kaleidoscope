@@ -35,4 +35,17 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 #####  微人事
 [https://github.com/lenve/vhr](https://github.com/lenve/vhr)
 
+#####  microservices-platform
+[https://github.com/zlt2000/microservices-platform](https://github.com/zlt2000/microservices-platform)
+
+
+##### spring-boot-base  SpringBoot 2.0 基础教程，日志配置，数据源配置，事务管理等
+[https://gitee.com/cicadasmile/spring-boot-base](https://gitee.com/cicadasmile/spring-boot-base)
+
+#####  middle-ware-parent  SpringBoot集成常用开发中间件
+[https://gitee.com/cicadasmile/middle-ware-parent](https://gitee.com/cicadasmile/middle-ware-parent)
+
+#####  spring-cloud-base   SpringCloud微服务组件基础用法
+[https://gitee.com/cicadasmile/spring-cloud-base](https://gitee.com/cicadasmile/spring-cloud-base)
+
 

@@ -29,4 +29,9 @@
 [https://gitee.com/xuexiangjys/XQRCode](https://gitee.com/xuexiangjys/XQRCode)  
 
 
+#####  XPopup  
+功能强大，UI简洁，交互优雅的通用弹窗
+[https://github.com/li-xiaojun/XPopup](https://github.com/li-xiaojun/XPopup)
+
+
 
