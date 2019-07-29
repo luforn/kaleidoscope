@@ -13,3 +13,7 @@
 #####  MPush开源实时消息推送系统  
 [https://github.com/mpusher/mpush](https://github.com/mpusher/mpush)  
 
+#####  秒杀系统  
+[https://github.com/qiurunze123/miaosha](https://github.com/qiurunze123/miaosha)  
+
+
