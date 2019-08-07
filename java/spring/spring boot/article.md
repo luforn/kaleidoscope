@@ -70,7 +70,12 @@
 [https://juejin.im/post/5d0a0398e51d45772a49ad4e](https://juejin.im/post/5d0a0398e51d45772a49ad4e)  
 
 #####  如何优雅关闭 Spring Boot 应用  
-[https://juejin.im/post/5d3869585188257f6a20a02c](https://juejin.im/post/5d3869585188257f6a20a02c)  
+[https://juejin.im/post/5d3869585188257f6a20a02c](https://juejin.im/post/5d3869585188257f6a20a02c) 
+
+#####  Spring Boot 2.x（十二）：Swagger2的正确玩法  
+[https://juejin.im/post/5d4a22aaf265da03ca1154c4](https://juejin.im/post/5d4a22aaf265da03ca1154c4)  
+
+ 
 
 
 

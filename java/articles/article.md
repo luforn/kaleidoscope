@@ -47,6 +47,15 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 #####  Java中的位运算机制详解  
 [https://blog.csdn.net/qq_24696917/article/details/52068927](https://blog.csdn.net/qq_24696917/article/details/52068927)  
 
+#####  IDEA 超实用使用技巧分享  
+[https://juejin.im/post/5d47f4e851882534d152a206](https://juejin.im/post/5d47f4e851882534d152a206)  
+
+#####  玩转IntelliJ IDEA  
+[https://juejin.im/post/5d46ccfff265da03e275cefa](https://juejin.im/post/5d46ccfff265da03e275cefa)  
+
+#####  Maven从入门到放弃  
+[https://juejin.im/post/5d4794676fb9a06b30702630](https://juejin.im/post/5d4794676fb9a06b30702630)  
+
  
 
 
