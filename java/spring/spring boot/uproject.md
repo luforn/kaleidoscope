@@ -1,5 +1,7 @@
 ## 项目收集
 
+#####  spring boot demo 是一个用来学习 spring boot 的项目  
+[https://github.com/xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)  
 
 #####  人人开源
 [https://www.renren.io](https://www.renren.io)
@@ -24,6 +26,8 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 [https://github.com/macrozheng/mall](https://github.com/macrozheng/mall)
 [https://github.com/macrozheng/mall-learning](https://github.com/macrozheng/mall-learning)
 
+#####  沽泡商城  基于SpringBoot+Dubbo构建的电商平台-微服务架构  
+[https://github.com/2227324689/gpmall](https://github.com/2227324689/gpmall)  
 
 #####  破力  开源BI项目
 [https://github.com/shzlw/poli](https://github.com/shzlw/poli)

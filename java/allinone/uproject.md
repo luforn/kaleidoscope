@@ -16,4 +16,7 @@
 #####  秒杀系统  
 [https://github.com/qiurunze123/miaosha](https://github.com/qiurunze123/miaosha)  
 
+#####  C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别  
+[https://github.com/ctripcorp/C-OCR](https://github.com/ctripcorp/C-OCR)  
+
 

@@ -57,5 +57,8 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 [https://juejin.im/post/5d4794676fb9a06b30702630](https://juejin.im/post/5d4794676fb9a06b30702630)  
 
  
+#####  FastThreadLocal吞吐量居然是ThreadLocal的3倍！！  
+[https://juejin.im/post/5d1b5531f265da1bc23f91a3](https://juejin.im/post/5d1b5531f265da1bc23f91a3)  
+
 
 
