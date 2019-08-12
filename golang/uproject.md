@@ -7,3 +7,9 @@
 [https://github.com/yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)  
 
 
+#####  syncd是一款开源的代码部署工具  
+[https://github.com/dreamans/syncd](https://github.com/dreamans/syncd)  
+
+
+
+

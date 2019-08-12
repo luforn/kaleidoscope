@@ -3,6 +3,16 @@
 #####  spring boot demo 是一个用来学习 spring boot 的项目  
 [https://github.com/xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)  
 
+#####  从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓
+[https://gitee.com/52itstyle/spring-boot-seckill](https://gitee.com/52itstyle/spring-boot-seckill)  
+
+##### Tale 博客系统
+[https://github.com/otale/tale](https://github.com/otale/tale)
+
+#####  Halo 一款现代化的个人独立博客系统  
+[https://gitee.com/babyrui/halo](https://gitee.com/babyrui/halo)  
+
+
 #####  人人开源
 [https://www.renren.io](https://www.renren.io)
 [https://gitee.com/renrenio/renren-fast](https://gitee.com/renrenio/renren-fast)  
@@ -38,11 +48,6 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 #####  微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
 [https://github.com/spring2go/staffjoy](https://github.com/spring2go/staffjoy)
 
-#####  V部落
-[https://github.com/lenve/VBlog](https://github.com/lenve/VBlog)
-
-#####  微人事
-[https://github.com/lenve/vhr](https://github.com/lenve/vhr)
 
 #####  microservices-platform
 [https://github.com/zlt2000/microservices-platform](https://github.com/zlt2000/microservices-platform)
@@ -63,5 +68,9 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 #####  基于SpringCloud2.0的微服务开发脚手架
 [https://github.com/zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud)
+
+#####  Weshop是基于Spring Cloud(Greenwich)开发的小程序商城系统  
+[https://gitee.com/cjbi/weshop](https://gitee.com/cjbi/weshop)  
+
 
 
