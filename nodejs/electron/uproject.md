@@ -7,6 +7,9 @@
 [https://gitee.com/istroy/ideawall](https://gitee.com/istroy/ideawall)
 
 ##### ivideo  一个可以观看国内主流视频平台所有视频的客户端
-[https://github.com/phobal/ivideo](https://github.com/phobal/ivideo)  
+[https://github.com/phobal/ivideo](https://github.com/phobal/ivideo) 
+
+#####  AnotherRedisDesktopManager  Redis客户端
+[https://github.com/qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)   
 
 

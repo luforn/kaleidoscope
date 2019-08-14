@@ -1,4 +1,4 @@
-## 博文清单  
+## 博文清单    
 
 #####  彻底透析SpringBoot jar可执行原理  
 [https://juejin.im/post/5d2d6812e51d45777b1a3e5a](https://juejin.im/post/5d2d6812e51d45777b1a3e5a)  
@@ -14,6 +14,16 @@
 
 #####  Spring Boot 配置文件中的花样，看这一篇足矣 
 [https://my.oschina.net/didispace/blog/3060464](https://my.oschina.net/didispace/blog/3060464)
+
+#####  SpringBoot+Mybatis多模块（module）项目搭建教程
+[https://www.cnblogs.com/orzlin/p/9717399.html](https://www.cnblogs.com/orzlin/p/9717399.html)  
+
+#####  Spring Boot 项目实战（一）Maven 多模块项目搭建
+[https://www.cnblogs.com/orzlin/p/10330163.html](https://www.cnblogs.com/orzlin/p/10330163.html)  
+[https://github.com/SymonLin/demo](https://github.com/SymonLin/demo)  
+
+#####  SpringBoot内容聚合  
+[https://www.cnblogs.com/javazhiyin/p/11269539.html](https://www.cnblogs.com/javazhiyin/p/11269539.html)  
 
 #####   泥瓦匠 Spring Boot 2.x 系列教程  
 [https://www.bysocket.com/springboot](https://www.bysocket.com/springboot)  
@@ -74,6 +84,12 @@
 
 #####  Spring Boot 2.x（十二）：Swagger2的正确玩法  
 [https://juejin.im/post/5d4a22aaf265da03ca1154c4](https://juejin.im/post/5d4a22aaf265da03ca1154c4)  
+
+
+#####  提升10倍生产力：IDEA远程一键部署SpringBoot到Docker  
+[https://www.cnblogs.com/javazhiyin/p/11268333.html](https://www.cnblogs.com/javazhiyin/p/11268333.html)  
+
+
 
  
 

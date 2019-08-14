@@ -61,4 +61,8 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 [https://juejin.im/post/5d1b5531f265da1bc23f91a3](https://juejin.im/post/5d1b5531f265da1bc23f91a3)  
 
 
+#####  一文搞明白位运算、补码、反码、原码  
+[https://juejin.im/post/5d52b7466fb9a06ae61aad69](https://juejin.im/post/5d52b7466fb9a06ae61aad69)  
+
+
 

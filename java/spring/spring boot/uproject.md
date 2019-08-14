@@ -66,11 +66,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 ##### ThingsBoard     Open-source IoT Platform
 [https://github.com/thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 
-#####  基于SpringCloud2.0的微服务开发脚手架
-[https://github.com/zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud)
 
-#####  Weshop是基于Spring Cloud(Greenwich)开发的小程序商城系统  
-[https://gitee.com/cjbi/weshop](https://gitee.com/cjbi/weshop)  
 
 
 
