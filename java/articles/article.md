@@ -82,6 +82,18 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 [https://juejin.im/post/5d0c4bebf265da1bc23f7f1d](https://juejin.im/post/5d0c4bebf265da1bc23f7f1d)  
 
 
+#####  logback 常用配置详解（一） 
+[https://blog.csdn.net/zhouzhiwengang/article/details/52636283](https://blog.csdn.net/zhouzhiwengang/article/details/52636283)  
+
+#####  logback 常用配置详解（二）  
+[https://blog.csdn.net/wq560/article/details/9057899](https://blog.csdn.net/wq560/article/details/9057899)  
+
+#####  logback 常用配置详解（三）  
+[https://blog.csdn.net/wq560/article/details/9057919](https://blog.csdn.net/wq560/article/details/9057919)  
+
+
+
+
 
 
 

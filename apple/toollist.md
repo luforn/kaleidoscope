@@ -1,6 +1,6 @@
 ## 苹果工具清单  
 
-########  create-dmg
+#####  create-dmg
 [https://github.com/sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg)  
 
 
