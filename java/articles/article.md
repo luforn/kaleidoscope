@@ -53,16 +53,39 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 #####  玩转IntelliJ IDEA  
 [https://juejin.im/post/5d46ccfff265da03e275cefa](https://juejin.im/post/5d46ccfff265da03e275cefa)  
 
-#####  Maven从入门到放弃  
-[https://juejin.im/post/5d4794676fb9a06b30702630](https://juejin.im/post/5d4794676fb9a06b30702630)  
+#####  一文搞明白位运算、补码、反码、原码  
+[https://juejin.im/post/5d52b7466fb9a06ae61aad69](https://juejin.im/post/5d52b7466fb9a06ae61aad69)  
 
- 
+#####  ThreadLocal详解  
+[https://juejin.im/post/5d46e87351882505d4270ddb](https://juejin.im/post/5d46e87351882505d4270ddb)  
+
+#####  面试再问ThreadLocal，别说你不会  
+[https://juejin.im/post/5d427f306fb9a06b122f1b94](https://juejin.im/post/5d427f306fb9a06b122f1b94)  
+
 #####  FastThreadLocal吞吐量居然是ThreadLocal的3倍！！  
 [https://juejin.im/post/5d1b5531f265da1bc23f91a3](https://juejin.im/post/5d1b5531f265da1bc23f91a3)  
 
+#####  Java8之Consumer、Supplier、Predicate和Function攻略  
+[https://juejin.im/post/5d43c8a66fb9a06ade10f1d8](https://juejin.im/post/5d43c8a66fb9a06ade10f1d8)  
 
-#####  一文搞明白位运算、补码、反码、原码  
-[https://juejin.im/post/5d52b7466fb9a06ae61aad69](https://juejin.im/post/5d52b7466fb9a06ae61aad69)  
+#####  Java线程池最佳实践  
+[https://juejin.im/post/5d4e5c9de51d453c11684c25](https://juejin.im/post/5d4e5c9de51d453c11684c25)  
+
+
+#####  我竟然不再抗拒 Java 的类加载机制了  
+[https://juejin.im/post/5d256d166fb9a07eeb13cf72](https://juejin.im/post/5d256d166fb9a07eeb13cf72)  
+
+#####  对Java中HashCode方法的深入思考  
+[https://juejin.im/post/5d50c1826fb9a06b1777a795](https://juejin.im/post/5d50c1826fb9a06b1777a795)  
+
+#####  Java Serializable：明明就一个空的接口嘛  
+[https://juejin.im/post/5d0c4bebf265da1bc23f7f1d](https://juejin.im/post/5d0c4bebf265da1bc23f7f1d)  
+
+
+
+
+
+
 
 
 

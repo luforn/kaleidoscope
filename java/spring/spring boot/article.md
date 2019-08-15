@@ -9,11 +9,20 @@
 #####  源码分析SpringBoot启动  
 [https://juejin.im/post/5cfb1b5de51d45775a7002e2](https://juejin.im/post/5cfb1b5de51d45775a7002e2)  
 
+#####  SpringBoot系列——WebMvcConfigurer介绍  
+[https://juejin.im/post/5cff9b68f265da1bb277271c](https://juejin.im/post/5cff9b68f265da1bb277271c)  
+
 #####  深入浅出Spring Boot 起步依赖和自动配置  
 [https://juejin.im/post/5cd62e566fb9a0322b5c1658](https://juejin.im/post/5cd62e566fb9a0322b5c1658)  
 
 #####  Spring Boot 配置文件中的花样，看这一篇足矣 
 [https://my.oschina.net/didispace/blog/3060464](https://my.oschina.net/didispace/blog/3060464)
+
+#####  一起来学Springboot  
+[https://blog.csdn.net/qq_32867467/column/info/39245](https://blog.csdn.net/qq_32867467/column/info/39245)
+
+#####  从零搭建自己的springboot后台框架  
+[https://juejin.im/post/5ad59840f265da239e4e9356](https://juejin.im/post/5ad59840f265da239e4e9356)
 
 #####  SpringBoot+Mybatis多模块（module）项目搭建教程
 [https://www.cnblogs.com/orzlin/p/9717399.html](https://www.cnblogs.com/orzlin/p/9717399.html)  
@@ -90,8 +99,34 @@
 [https://www.cnblogs.com/javazhiyin/p/11268333.html](https://www.cnblogs.com/javazhiyin/p/11268333.html)  
 
 
+#####  SpringBoot集成常用开发中间件，分库分表，缓存，消息队列，定时器，权限管理等组件  
+[https://gitee.com/cicadasmile/middle-ware-parent](https://gitee.com/cicadasmile/middle-ware-parent)  
 
- 
+#####  从零搭建自己的springboot后台框架  
+[https://juejin.im/post/5ad59840f265da239e4e9356](https://juejin.im/post/5ad59840f265da239e4e9356)  
+[https://github.com/MyBeany/mySpringBoot](https://github.com/MyBeany/mySpringBoot)  
+
+
+#####  SpringBoot配置logback  
+[https://juejin.im/post/5b2e29d0e51d45589e7bd4fa](https://juejin.im/post/5b2e29d0e51d45589e7bd4fa) 
+[https://my.oschina.net/u/566591/blog/651866](https://my.oschina.net/u/566591/blog/651866)  
+
+
+
+#####  SpringBoot学习目录  
+[https://www.jianshu.com/p/9a08417e4e84](https://www.jianshu.com/p/9a08417e4e84)  
+
+#####  基于 SpringBoot2.0+优雅整合 SpringBoot+Mybatis  
+[https://juejin.im/post/5c010c56e51d452790694f17](https://juejin.im/post/5c010c56e51d452790694f17)  
+
+#####  Springboot 集成logback 日志框架简介  
+[https://juejin.im/post/5b128f326fb9a01e8b7814c4](https://juejin.im/post/5b128f326fb9a01e8b7814c4)  
+
+#####  Logback配置文件这么写，TPS提高10倍  
+[https://juejin.im/post/5d52116de51d4561c541a684](https://juejin.im/post/5d52116de51d4561c541a684)  
+
+#####  从零搭建自己的springboot后台框架  
+[https://juejin.im/post/5ad59840f265da239e4e9356](https://juejin.im/post/5ad59840f265da239e4e9356)  
 
 
 
