@@ -18,3 +18,7 @@
 #####  webpack4的30个步骤打造优化到极致的react开发环境，如约而至  
 [https://juejin.im/post/5cfe4b13f265da1bb13f26a8](https://juejin.im/post/5cfe4b13f265da1bb13f26a8)  
 
+#####  webpack 教程资源收集  
+[https://github.com/kraaas/webpack-tutorial-collection](https://github.com/kraaas/webpack-tutorial-collection)  
+
+

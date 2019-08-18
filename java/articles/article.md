@@ -56,15 +56,6 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 #####  一文搞明白位运算、补码、反码、原码  
 [https://juejin.im/post/5d52b7466fb9a06ae61aad69](https://juejin.im/post/5d52b7466fb9a06ae61aad69)  
 
-#####  ThreadLocal详解  
-[https://juejin.im/post/5d46e87351882505d4270ddb](https://juejin.im/post/5d46e87351882505d4270ddb)  
-
-#####  面试再问ThreadLocal，别说你不会  
-[https://juejin.im/post/5d427f306fb9a06b122f1b94](https://juejin.im/post/5d427f306fb9a06b122f1b94)  
-
-#####  FastThreadLocal吞吐量居然是ThreadLocal的3倍！！  
-[https://juejin.im/post/5d1b5531f265da1bc23f91a3](https://juejin.im/post/5d1b5531f265da1bc23f91a3)  
-
 #####  Java8之Consumer、Supplier、Predicate和Function攻略  
 [https://juejin.im/post/5d43c8a66fb9a06ade10f1d8](https://juejin.im/post/5d43c8a66fb9a06ade10f1d8)  
 
