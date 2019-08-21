@@ -6,4 +6,9 @@
 #####  Shadow  零反射全动态Android插件框架
 [https://github.com/Tencent/Shadow](https://github.com/Tencent/Shadow)  
 
+#####  FlyTour Android MVVM+MVP+Dagger2+Retrofit+RxJava+组件化组成的双架构框架  
+[https://github.com/mxdldev/android-mvp-mvvm-flytour](https://github.com/mxdldev/android-mvp-mvvm-flytour)  
+
+
+
 

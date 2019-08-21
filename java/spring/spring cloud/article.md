@@ -7,4 +7,9 @@
 #####  史上最简单的Spring Cloud教程源码  
 [https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)  
 
+#####   awesome-spring-cloud
+[https://github.com/ityouknow/awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud)
 
+
+#####  spring-cloud2-learning
+[https://github.com/battcn/spring-cloud2-learning](https://github.com/battcn/spring-cloud2-learning)

@@ -84,10 +84,13 @@ To Be Top Javaer - Java工程师成神之路 https://www.hollischuang.com
 
 
 
+#####  Synchronized解析——如果你愿意一层一层剥开我的心  
+[https://juejin.im/post/5d5374076fb9a06ac76da894](https://juejin.im/post/5d5374076fb9a06ac76da894)  
 
 
 
-
+#####  Java并发编程之线程篇之线程间通信(四)  
+[https://juejin.im/post/5d595558e51d4561ac7bccc4](https://juejin.im/post/5d595558e51d4561ac7bccc4)  
 
 
 

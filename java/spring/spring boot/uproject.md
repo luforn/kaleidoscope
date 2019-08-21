@@ -3,6 +3,9 @@
 #####  spring boot demo 是一个用来学习 spring boot 的项目  
 [https://github.com/xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)  
 
+
+
+
 #####  从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓
 [https://gitee.com/52itstyle/spring-boot-seckill](https://gitee.com/52itstyle/spring-boot-seckill)  
 
@@ -65,6 +68,24 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ##### ThingsBoard     Open-source IoT Platform
 [https://github.com/thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+
+#####  Hacker-walker  
+[https://github.com/hacker-walker/Hacker-walker](https://github.com/hacker-walker/Hacker-walker)  
+
+
+
+
+
+##  传统项目，非前后端分离  
+
+#####  办公自动化  
+[https://gitee.com/aaluoxiang/oa_system](https://gitee.com/aaluoxiang/oa_system)  
+
+#####  铭飞业务系统基础开发平台
+[https://gitee.com/mingSoft/MCMS](https://gitee.com/mingSoft/MCMS)
+
+#####  若依管理系统
+[https://gitee.com/y_project/RuoYi](https://gitee.com/y_project/RuoYi)  
 
 
 
