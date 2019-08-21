@@ -37,4 +37,7 @@
 #####  Java ThreadLocal的演化、实现和场景  
 [https://www.jianshu.com/p/09ceb962894d](https://www.jianshu.com/p/09ceb962894d)  
 
+#####  理解Java中的ThreadLocal  
+[https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java](https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java)  
+
 
