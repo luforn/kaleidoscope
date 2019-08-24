@@ -40,4 +40,18 @@
 #####  理解Java中的ThreadLocal  
 [https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java](https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java)  
 
+#####  线程的私家小院儿：ThreadLocal  
+[https://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392118&idx=1&sn=a2144a19bdeba48001f4f76f423e25d9](https://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392118&idx=1&sn=a2144a19bdeba48001f4f76f423e25d9)  
+
+##  使用场景  
+
+#####  ThreadLocal的使用场景：Web容器、Spring容器、日志打印 
+[http://www.cachekit.com/archives/43.html](http://www.cachekit.com/archives/43.html)
+
+#####  java ThreadLocal(应用场景及使用方式及原理)  
+[https://blog.csdn.net/coslay/article/details/38293689](https://blog.csdn.net/coslay/article/details/38293689)  
+
+#####  ThreadLocal 原理和使用场景分析  
+[https://www.cnblogs.com/fengzheng/p/8690253.html](https://www.cnblogs.com/fengzheng/p/8690253.html)  
+
 

@@ -140,4 +140,7 @@
  
 
 
+#####  Spring Boot Redis 序列化方案的选择  
+[https://juejin.im/post/5d5e10d2e51d4561b416d487](https://juejin.im/post/5d5e10d2e51d4561b416d487)  
+
 
