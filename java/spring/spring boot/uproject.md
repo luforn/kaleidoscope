@@ -4,7 +4,8 @@
 [https://github.com/xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)  
 
 
-
+#####  Springboot Plus  
+[https://gitee.com/geekidea/spring-boot-plus](https://gitee.com/geekidea/spring-boot-plus)  
 
 #####  从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓
 [https://gitee.com/52itstyle/spring-boot-seckill](https://gitee.com/52itstyle/spring-boot-seckill)  

@@ -5,6 +5,12 @@
 [https://github.com/XiaoMi/Gaea](https://github.com/XiaoMi/Gaea)  
 
 #####  Canal  阿里巴巴mysql数据库binlog的增量订阅&消费组件  
-[https://github.com/alibaba/canal](https://github.com/alibaba/canal)  
+[https://github.com/alibaba/canal](https://github.com/alibaba/canal) 
+
+#####  ProxySQL 是一个高性能，高可用性，的数据中间层项目  
+[https://github.com/sysown/proxysql](https://github.com/sysown/proxysql)  
+[https://proxysql.com](https://proxysql.com)  
+
+ 
 
 
