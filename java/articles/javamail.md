@@ -28,3 +28,13 @@
 [https://www.cnblogs.com/sunhaoyu/p/6480117.html](https://www.cnblogs.com/sunhaoyu/p/6480117.html)  
 
 
+#####  Javamail接收邮件报错 A3 NO SELECT Unsafe Login. Please contact kefu@188.com for help
+[https://blog.csdn.net/shenshibaoma/article/details/69396696](https://blog.csdn.net/shenshibaoma/article/details/69396696)
+
+
+
+
+#####  SpringBoot集成Java Mail实现邮件发送功能  
+[https://blog.csdn.net/myNameIssls/article/details/81255060](https://blog.csdn.net/myNameIssls/article/details/81255060)  
+
+
