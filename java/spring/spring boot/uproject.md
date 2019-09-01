@@ -79,6 +79,9 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 #####  TKey单点登录  
 [https://gitee.com/cdk8s/tkey](https://gitee.com/cdk8s/tkey)  
 
+##### 学之思在线考试系统  
+[https://gitee.com/alvis-yu/exam](https://gitee.com/alvis-yu/exam)  
+
 
 
 
