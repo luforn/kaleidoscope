@@ -38,3 +38,7 @@
 [https://blog.csdn.net/myNameIssls/article/details/81255060](https://blog.csdn.net/myNameIssls/article/details/81255060)  
 
 
+#####  javamail邮件Multipart支持同时发text和html混合消息，alternative纯文本与超文本共存  
+[https://www.cnblogs.com/zdz8207/p/java-javamail-multipart-alternative.html](https://www.cnblogs.com/zdz8207/p/java-javamail-multipart-alternative.html)  
+
+
