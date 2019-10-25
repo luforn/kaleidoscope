@@ -5,3 +5,9 @@
 
 #####   Bitchat  一个基于 Netty 的 IM 即时通讯框架
 [https://github.com/all4you/bitchat](https://github.com/all4you/bitchat)
+
+
+#####  CIM  一款面向开发者的 IM(即时通讯)系统  
+[https://github.com/crossoverJie/cim](https://github.com/crossoverJie/cim)  
+
+

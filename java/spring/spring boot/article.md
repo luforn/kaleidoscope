@@ -140,7 +140,10 @@
 #####  SpringBoot学习目录  
 [https://www.jianshu.com/p/9a08417e4e84](https://www.jianshu.com/p/9a08417e4e84) 
 
- 
+#####  适合新手入门Spring Security With JWT的demo  
+[https://juejin.im/post/5d8f0e0a518825555d463366](https://juejin.im/post/5d8f0e0a518825555d463366) 
+
+
 
 
 #####  Spring Boot Redis 序列化方案的选择  
