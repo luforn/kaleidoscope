@@ -11,6 +11,9 @@
 [https://github.com/sysown/proxysql](https://github.com/sysown/proxysql)  
 [https://proxysql.com](https://proxysql.com)  
 
+#####  Vitess，MySQL 数据库集群水平扩展系统
+[https://github.com/vitessio/vitess](https://github.com/vitessio/vitess)  
+
  
 
 

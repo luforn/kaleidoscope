@@ -10,6 +10,11 @@
 [https://github.com/phobal/ivideo](https://github.com/phobal/ivideo) 
 
 #####  AnotherRedisDesktopManager  Redis客户端
-[https://github.com/qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)   
+[https://github.com/qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) 
+
+#####  LanMiaoDesktop 桌面记账软件  
+[https://gitee.com/XiaoLanMiao/LanMiaoDesktop](https://gitee.com/XiaoLanMiao/LanMiaoDesktop)  
+
+  
 
 
