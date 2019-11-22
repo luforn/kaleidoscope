@@ -1,5 +1,17 @@
 ## 综合项目收集  
 
+
+#####  即时聊天  Zulip
+[https://zulipchat.com](https://zulipchat.com) 
+#####  即时聊天  Zulip 服务端
+[https://github.com/zulip/zulip](https://github.com/zulip/zulip)
+#####  即时聊天  Zulip 桌面版  
+[https://github.com/zulip/zulip-desktop](https://github.com/zulip/zulip-desktop)  
+
+
+
+
+
 #####  Python - 100天从新手到大师  
 [https://github.com/jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 
