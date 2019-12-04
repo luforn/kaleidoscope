@@ -19,6 +19,13 @@
 [https://gitee.com/babyrui/halo](https://gitee.com/babyrui/halo)  
 
 
+#####  Diboot  
+[https://www.diboot.com](https://www.diboot.com)
+
+##### UExam  学之思  
+[https://github.com/alvis-u/uexam](https://github.com/alvis-u/uexam)  
+
+
 #####  人人开源
 [https://www.renren.io](https://www.renren.io)
 [https://gitee.com/renrenio/renren-fast](https://gitee.com/renrenio/renren-fast)  
@@ -29,6 +36,8 @@
 
 [https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
 
+#####  Linjiashop 邻家小铺  
+[https://gitee.com/microapp/linjiashop](https://gitee.com/microapp/linjiashop)
 
 #### LiteMall
 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
