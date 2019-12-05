@@ -150,3 +150,13 @@
 [https://juejin.im/post/5d5e10d2e51d4561b416d487](https://juejin.im/post/5d5e10d2e51d4561b416d487)  
 
 
+#####  SpringBoot整合Redis  
+[https://www.jianshu.com/p/01a8d0383a2f](https://www.jianshu.com/p/01a8d0383a2f)  
+
+
+#####  Springboot1.x整合Redis  
+[https://github.com/JayTange/springbootRedis](https://github.com/JayTange/springbootRedis)
+
+
+
+
