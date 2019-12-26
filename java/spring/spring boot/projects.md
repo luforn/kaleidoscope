@@ -51,6 +51,14 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 [https://github.com/macrozheng/mall](https://github.com/macrozheng/mall)
 [https://github.com/macrozheng/mall-learning](https://github.com/macrozheng/mall-learning)
 
+#####  使用Jenkins一键打包部署SpringBoot应用，就是这么6 
+[https://juejin.im/post/5df780d3e51d4557ff140b30](https://juejin.im/post/5df780d3e51d4557ff140b30)  
+#####  使用Jenkins一键打包部署前端应用，就是这么6
+[https://juejin.im/post/5e0360e951882512400ae872](https://juejin.im/post/5e0360e951882512400ae872)  
+#####  Nginx的这些妙用，你肯定有不知道的  
+[https://juejin.im/post/5dee499151882512444014eb](https://juejin.im/post/5dee499151882512444014eb)  
+
+
 #####  沽泡商城  基于SpringBoot+Dubbo构建的电商平台-微服务架构  
 [https://github.com/2227324689/gpmall](https://github.com/2227324689/gpmall)  
 
