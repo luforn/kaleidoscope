@@ -1,5 +1,15 @@
 ## 项目收集
 
+
+#####  一个深度且全面的 Spring Boot 2.X 入门  
+[https://github.com/YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)  
+
+#####  Spring Security With JWT（含权限验证）后端部分代码  
+[https://github.com/Snailclimb/spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide)  
+
+#####  SpringBoot 核心知识点总结。 基于 Spring Boot 2.19+  
+[https://github.com/Snailclimb/springboot-guide](https://github.com/Snailclimb/springboot-guide)  
+
 #####  spring boot demo 是一个用来学习 spring boot 的项目  
 [https://github.com/xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)  
 
@@ -7,7 +17,10 @@
 [https://github.com/callicoder/spring-security-react-ant-design-polls-app](https://github.com/callicoder/spring-security-react-ant-design-polls-app)
 
 #####  Springboot Plus  
-[https://gitee.com/geekidea/spring-boot-plus](https://gitee.com/geekidea/spring-boot-plus)  
+[https://gitee.com/geekidea/spring-boot-plus](https://gitee.com/geekidea/spring-boot-plus) 
+
+
+ 
 
 #####  从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓
 [https://gitee.com/52itstyle/spring-boot-seckill](https://gitee.com/52itstyle/spring-boot-seckill)  
