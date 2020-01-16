@@ -19,6 +19,12 @@
 #####  Springboot Plus  
 [https://gitee.com/geekidea/spring-boot-plus](https://gitee.com/geekidea/spring-boot-plus) 
 
+##### zuihou-admin-boot  
+[https://github.com/zuihou/zuihou-admin-boot](https://github.com/zuihou/zuihou-admin-boot)
+
+##### zuihou-admin-cloud  
+[https://github.com/zuihou/zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)  
+
 
  
 
