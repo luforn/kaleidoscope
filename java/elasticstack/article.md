@@ -4,6 +4,11 @@
 #####  终于有人把Elasticsearch原理讲透了  
 [https://developer.51cto.com/art/201904/594615.htm](https://developer.51cto.com/art/201904/594615.htm)  
 
+#####  Elasticsearch 核心知识篇 
+[https://zq99299.github.io/note-book/elasticsearch-core](https://zq99299.github.io/note-book/elasticsearch-core)
+
+#####  Elasticsearch 高级篇  
+[https://zq99299.github.io/note-book/elasticsearch-senior](https://zq99299.github.io/note-book/elasticsearch-senior)  
 
 #####  Elasticsearch Java API的基本使用  
 [https://www.cnblogs.com/shizhijie/p/10332970.html](https://www.cnblogs.com/shizhijie/p/10332970.html)  
