@@ -90,6 +90,9 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 #####  微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
 [https://github.com/spring2go/staffjoy](https://github.com/spring2go/staffjoy)
 
+#####  基于Dubbo的微信开源商城小程序，后端服务microunimall
+[https://gitee.com/iotechn/microunimall](https://gitee.com/iotechn/microunimall)
+
 
 #####  microservices-platform
 [https://github.com/zlt2000/microservices-platform](https://github.com/zlt2000/microservices-platform)
