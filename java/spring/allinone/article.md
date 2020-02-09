@@ -17,4 +17,9 @@
 #####  SpringSecurity实战  
 [https://blog.csdn.net/qq_32867467/column/info/40361](https://blog.csdn.net/qq_32867467/column/info/40361)  
 
+#####  Spring Security With JWT（含权限验证）后端部分代码  
+[https://github.com/Snailclimb/spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide)  
+
+
+
 
