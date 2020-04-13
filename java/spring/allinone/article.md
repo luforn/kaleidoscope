@@ -21,5 +21,9 @@
 [https://github.com/Snailclimb/spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide)  
 
 
+#####  Spring security中的BCryptPasswordEncoder方法对密码进行加密与密码匹配  
+[https://www.jianshu.com/p/89c4c476e189](https://www.jianshu.com/p/89c4c476e189)  
 
+#####  SpringSecurity频道  
+[https://blog.csdn.net/qq_41256709/category_8909986.html](https://blog.csdn.net/qq_41256709/category_8909986.html)  
 

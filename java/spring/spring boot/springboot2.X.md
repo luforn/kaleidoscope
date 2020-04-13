@@ -18,3 +18,5 @@
 #####  SpringBoot入门实践(七)-Spring-Data-JPA实现数据访问  
 [https://juejin.im/post/5e2d11005188254d9032a7d6](https://juejin.im/post/5e2d11005188254d9032a7d6)  
 
+#####  SpringBoot中使用Shiro和JWT做认证和鉴权  
+[https://www.jianshu.com/p/0b1131be7ace](https://www.jianshu.com/p/0b1131be7ace)  

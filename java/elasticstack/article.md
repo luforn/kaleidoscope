@@ -1,5 +1,7 @@
 ##  Elasticsearch 
  
+#####  Elasticsearch快速入门，掌握这些刚刚好  
+[https://mp.weixin.qq.com/s/cohWZy_eUOUqbmUxhXzzNA](https://mp.weixin.qq.com/s/cohWZy_eUOUqbmUxhXzzNA)  
 
 #####  终于有人把Elasticsearch原理讲透了  
 [https://developer.51cto.com/art/201904/594615.htm](https://developer.51cto.com/art/201904/594615.htm)  
